@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfetch",
+        "uuid": 9830016,
+        "checksum": "jkf5un"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
